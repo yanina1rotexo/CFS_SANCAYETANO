@@ -1,0 +1,3 @@
+// declaramos variables con los tipos primitivos
+let num: number = 12;
+console.log(num)
